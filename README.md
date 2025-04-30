@@ -13,6 +13,10 @@ Also known as **Detection and Prevention of Cirus Disease using Deep Learning**.
 
 ---
 
+N.B: This is not a complete code of the project but rather a part of the complete code.
+
+---
+
 ## 🧠 Project Overview
 
 - **Title**: DEEP-CiDO (Detection and Early Prevention of Citrus Disease in Orange)
