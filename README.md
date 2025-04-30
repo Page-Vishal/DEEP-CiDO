@@ -12,7 +12,9 @@ Also known as **Detection and Prevention of Cirus Disease using Deep Learning**.
 - Sooty Mold
 
 ---
+
 N.B: This is not a complete code of the project but rather a part of the complete code.
+
 ---
 
 ## 🧠 Project Overview
