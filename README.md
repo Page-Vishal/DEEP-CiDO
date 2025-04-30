@@ -11,7 +11,7 @@ Also known as **Detection and Prevention of Cirus Disease using Deep Learning**.
 - Leaf Miner
 - Sooty Mold
 
-  Check out the mobile app by downloading and installing the apk: [Citra](./Citra.apk) 
+Check out the mobile app by downloading and installing the apk : [Citra](./Citra.apk) 
 
 ---
 
