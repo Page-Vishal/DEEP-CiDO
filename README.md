@@ -94,15 +94,15 @@ N.B: This is not a complete code of the project but rather a part of the complet
 - **Request**: Multipart form-data with image file
 - **Response**:
   - JSON result with disease type
-  - Chatbot-generated recommendation
+  - Chatbot-generated recommendation.
 
 ### 🔹 Endpoint: `POST /check_disease_api`
-- **Description**: From check leaf to Check disease
-- **Response**: JSON reposne of confidence of disease prediction
+- **Description**: From check leaf to Check disease.
+- **Response**: JSON reposne of confidence of disease prediction.
 
 ### 🔹 Endpoint: `POST /chatbotresponse`
-- **Description**: Fetch the chatbot's reply to user's question
-- **Response**: Jsom result with bot's response
+- **Description**: Fetch the chatbot's reply to user's question.
+- **Response**: Jsom result with bot's response.
 
 ---
 
